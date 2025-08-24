@@ -16,3 +16,10 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Python packaging artifacts
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
