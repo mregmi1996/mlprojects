@@ -3,6 +3,8 @@ venv/
 .venv/
 .env/          # if you use virtualenvwrapper
 conda-env/     # if you use a custom conda path
+.logs
+logs/
 
 # python caches
 __pycache__/
