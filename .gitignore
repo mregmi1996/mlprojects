@@ -25,3 +25,7 @@ __pycache__/
 dist/
 build/
 .eggs/
+*catboost_info/
+
+# VSCode
+.vscode/
