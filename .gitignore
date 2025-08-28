@@ -5,6 +5,7 @@ venv/
 conda-env/     # if you use a custom conda path
 .logs
 logs/
+artifacts/
 
 # python caches
 __pycache__/

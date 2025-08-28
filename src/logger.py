@@ -1,5 +1,4 @@
 import logging
-import logger
 import os
 from datetime import datetime
 
@@ -15,3 +14,5 @@ logging.basicConfig (
     datefmt="%Y-%m-%d %H:%M:%S",
     level=logging.INFO
 )
+
+logger = logging.getLogger("mlproj")
